@@ -48,9 +48,9 @@ h1 {
 }
 
 /* Custom Colors */
-.chicken .title { background-color: #f4a460; }  /* Light Brown */
-.beef .title { background-color: #d9534f; }  /* Red */
-.sushi .title { background-color: #f0e68c; }  /* Light Yellow */
+.chicken .title { background-color: #f4a460; } 
+.beef .title { background-color: #d9534f; }  
+.sushi .title { background-color:#2e10c4 ; }  
 
 /* === Responsive Design === */
 
